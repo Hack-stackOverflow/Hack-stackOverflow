@@ -19,6 +19,4 @@ I am passionate about giving life and functionality to beautiful designs and dri
  </div
 
 
-<sample> And counting, I always appreciate the opportunity to learn new things </sample>
-
 [![Hack-stackOverflow's github stats](https://github-readme-stats.vercel.app/api?username=Hack-stackOverflow)](https://github.com/Hack-stackOverflow)
