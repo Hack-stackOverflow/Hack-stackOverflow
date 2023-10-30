@@ -2,7 +2,7 @@
  <img src="http://quoteapic.com/wp-content/uploads/2017/03/work-survaival.gif" height=250px align=right>
  
 <samp>
-I am passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
+Passionate about giving life and functionality to beautiful designs and driven by the challenges of process and data storage!
 </samp>
 
  <hr>
