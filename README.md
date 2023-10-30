@@ -16,7 +16,7 @@
 
 
 
-Constructive feedbacks about my code are always welcome too. :smiley:
+Constructive feedbacks about my code are always welcomed by us. :smiley:
 
 
 
